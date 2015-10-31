@@ -1,41 +1,41 @@
 module: B
 
-area_a1_x: -2.009
-area_a1_y: 1.114
-area_a1_orientation: 1.640
+area_a1_x: -2.087
+area_a1_y: 1.388
+area_a1_orientation: 1.611
 
-area_a2_x: -1.918
-area_a2_y: 0.910
-area_a2_orientation: -1.571
+area_a2_x: -1.956
+area_a2_y: 0.727
+area_a2_orientation: -1.472
 
-area_a3_x: -1.200
-area_a3_y: 1.083
-area_a3_orientation: 1.583
+area_a3_x: -1.312
+area_a3_y: 1.278
+area_a3_orientation: 1.534
 
-area_a4_x: -1.276
-area_a4_y: 0.829
-area_a4_orientation: -1.495
+area_a4_x: -1.294
+area_a4_y: 0.800
+area_a4_orientation: -1.457
 
-area_b1_x: 0.110
-area_b1_y: 1.192
-area_b1_orientation: 1.661
+area_b1_x: 0.027
+area_b1_y: 1.634
+area_b1_orientation: 1.625
 
-area_b2_x: -0.009
-area_b2_y: 1.241
-area_b2_orientation: -1.498
+area_b2_x: 0.154
+area_b2_y: 1.067
+area_b2_orientation: -1.493
 
-area_b3_x: 0.988
-area_b3_y: 1.255
-area_b3_orientation: 1.624
+area_b3_x: 0.952
+area_b3_y: 1.542
+area_b3_orientation: 1.610
 
-area_b4_x: 0.908
-area_b4_y: 1.440 
-area_b4_orientation: -1.501
+area_b4_x: 1.025
+area_b4_y:  1.171
+area_b4_orientation: -1.481
 
-casa_x: -0.551
-casa_y: 1.533
-casa_orientation: 1.643
+casa_x: -0.564
+casa_y: 1.822
+casa_orientation: 1.633
 
-buffer_x: -0.396
-buffer_y: 0.761
-buffer_orientation: -1.514
+buffer_x: -0.416
+buffer_y: 0.741
+buffer_orientation: -1.485
